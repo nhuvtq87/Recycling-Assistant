@@ -1,0 +1,8 @@
+{
+  "name": "Recycle Assistant",
+  "description": "AI-powered recycling assistant that uses image recognition to classify waste and provide local disposal guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
