@@ -44,8 +44,6 @@ We are committed to building responsible technology:
 
 Recycling Assistant empowers users to make smarter recycling choices, encourages daily sustainable habits, and supports SDG 12 to drive responsible consumption. Let's make recycling smarter—together.
 
-### [Mobile Prototype Details]
-*(Optional: Insert link or additional details regarding Section 04 - Mobile Prototype if available.)*
 
 ***
 **Thank you for your interest in our project!**
