@@ -1,7 +1,5 @@
 # 🌱 Recycling Assistant with Image Recognition
 
-*Presented by Team 23 | Sustainable Solutions for a Better Tomorrow*
-
 Recycling is not the solution to all our environmental problems, but it's a step in the right direction. **Recycling Assistant** is a mobile app designed to make recycling smarter—together.
 
 ## 💡 The Idea
