@@ -2,9 +2,6 @@
 
 *Presented by Team 23 | Sustainable Solutions for a Better Tomorrow*
 
-[![SDG 12](https://img.shields.io/badge/SDG-12_Responsible_Consumption_and_Production-0A9D4F?style=flat-square&logo=un-sustainability-development-goals)](https://sdgs.un.org/goals/goal12)
-[![Technology](https://img.shields.io/badge/Tech-Watson_Visual_Recognition_%2B_Chatbot-blue?style=flat-square)](https://www.ibm.com/watson)
-
 Recycling is not the solution to all our environmental problems, but it's a step in the right direction. **Recycling Assistant** is a mobile app designed to make recycling smarter—together.
 
 ## 💡 The Idea
